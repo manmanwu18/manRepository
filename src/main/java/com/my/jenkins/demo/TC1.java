@@ -16,4 +16,8 @@ public class TC1 {
     public void case2(){
         Assert.assertEquals("hello","hello");
     }
+    @Test
+    public void case3(){
+        Assert.assertEquals("hello1","hello");
+    }
 }
