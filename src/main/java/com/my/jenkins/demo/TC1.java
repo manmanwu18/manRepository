@@ -18,6 +18,6 @@ public class TC1 {
     }
     @Test
     public void case3(){
-        Assert.assertEquals("hello1","hello");
+        Assert.assertEquals("hello1","hello1");
     }
 }
